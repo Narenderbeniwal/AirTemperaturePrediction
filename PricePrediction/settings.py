@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-z6=k6jp-q@7vhlk^2+-vz02qn4gkmo^lbs1k-dodf%%*5fh2uj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['airtempprediction.azurewebsites.net']
 
 
 # Application definition
